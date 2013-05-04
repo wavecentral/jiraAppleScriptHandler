@@ -15,6 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+    Placed in GIT
 *)
 
 property SOAP_app : "http://<JIRA_HOSTNAME>/rpc/soap/jirasoapservice-v2"
